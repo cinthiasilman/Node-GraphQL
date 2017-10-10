@@ -3,7 +3,8 @@
 API utilizando GraphQL
 
 Taynara Sene - 538515
-Cintia Silman - 
+
+Cintia Silman - 544590
 
 ## Install
 
